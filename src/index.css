@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #0c0b10;
+  --color-panel: #17151c;
+  --color-panel-alt: #1e1a24;
+  --color-border: #2b2732;
+  --color-accent: #e8b13d;
+  --color-accent-hover: #d69f26;
+  --color-accent-ink: #1a1408;
+  --color-danger: #9a2b3d;
+  --color-muted: #a79fae;
+
+  --font-display: 'Playfair Display', Georgia, serif;
+}
